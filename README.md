@@ -1,6 +1,8 @@
 GoDropIt
 ========
 
+[![Build Status](https://gitlab.com/ilpianista/gdi/badges/master/build.svg)](https://gitlab.com/ilpianista/gdi/pipelines)
+
 A command-line client for [DropIt](https://apps.nextcloud.com/apps/dropit) Nextcloud app.
 
 ## Get it
