@@ -2,6 +2,7 @@ GoDropIt
 ========
 
 [![Build Status](https://gitlab.com/ilpianista/gdi/badges/master/build.svg)](https://gitlab.com/ilpianista/gdi/pipelines)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Filpianista%2Fgdi.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Filpianista%2Fgdi?ref=badge_shield)
 
 A command-line client for [DropIt](https://apps.nextcloud.com/apps/dropit) Nextcloud app.
 
@@ -27,3 +28,6 @@ Donations via [Liberapay](https://liberapay.com/ilpianista) or Bitcoin (1Ph3hFEo
 ## License
 
 MIT
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Filpianista%2Fgdi.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Filpianista%2Fgdi?ref=badge_large)
